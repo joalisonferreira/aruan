@@ -1,0 +1,101 @@
+# Translation of Plugins - Automatic Translate Addon For Loco Translate - Stable (latest release) in Portuguese (Brazil)
+# This file is distributed under the same license as the Plugins - Automatic Translate Addon For Loco Translate - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-08-21 10:42:41+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: pt_BR\n"
+"Project-Id-Version: Plugins - Automatic Translate Addon For Loco Translate - Stable (latest release)\n"
+
+#: includes/ReviewNotice/class.review-notice.php:65
+msgid "Not Interested"
+msgstr "Não estou interessado"
+
+#: includes/ReviewNotice/class.review-notice.php:64
+msgid "I already rated it"
+msgstr "Eu já o avaliei"
+
+#: includes/Feedback/class.feedback-form.php:106
+msgid "I consent to having <a href=\"https://coolplugins.net\" target=\"_blank\">Cool Plugins</a> store my email-id and other information submitted via this form, they can also respond to my inquiry."
+msgstr "Concordo em permitir que <a href=\"https://coolplugins.net\" target=\"_blank\">Cool Plugins</a> armazene meu endereço de e-mail e outras informações enviadas por meio deste formulário, e eles também podem responder à minha consulta."
+
+#: includes/Feedback/class.feedback-form.php:92
+msgid "If you have a moment, please share why you are deactivating this plugin."
+msgstr "Se você tiver um momento, compartilhe por que está desativando este plugin."
+
+#: includes/Feedback/class.feedback-form.php:79
+msgid "Quick Feedback"
+msgstr "Feedback rápido"
+
+#: includes/Feedback/class.feedback-form.php:70
+#: includes/Feedback/class.feedback-form.php:145
+msgid "Please share the reason"
+msgstr "Compartilhe o motivo"
+
+#: includes/Feedback/class.feedback-form.php:69
+#: includes/Feedback/class.feedback-form.php:144
+msgid "Other"
+msgstr "Outro"
+
+#: includes/Feedback/class.feedback-form.php:65
+#: includes/Feedback/class.feedback-form.php:140
+msgid "It's a temporary deactivation"
+msgstr "É uma desativação temporária"
+
+#: includes/Feedback/class.feedback-form.php:61
+#: includes/Feedback/class.feedback-form.php:136
+msgid "The plugin is not working"
+msgstr "O plugin não está funcionando"
+
+#: includes/Feedback/class.feedback-form.php:58
+#: includes/Feedback/class.feedback-form.php:133
+msgid "Please share which plugin"
+msgstr "Por favor, compartilhe qual plugin"
+
+#: includes/Feedback/class.feedback-form.php:57
+#: includes/Feedback/class.feedback-form.php:132
+msgid "I found a better plugin"
+msgstr "Encontrei um plugin melhor"
+
+#: includes/Feedback/class.feedback-form.php:53
+#: includes/Feedback/class.feedback-form.php:128
+msgid "The plugin didn't work as expected"
+msgstr "O plugin não funcionou como esperado"
+
+#: automatic-translator-addon-for-loco-translate.php:607
+#: automatic-translator-addon-for-loco-translate.php:615
+msgid "Cheatin&#8217; huh?"
+msgstr "Trapaceando, hein?"
+
+#: automatic-translator-addon-for-loco-translate.php:336
+msgid "In order to use <strong>%1$s</strong> (version <strong>%2$s</strong>), Please update <a href=\"%3$s\" class=\"thickbox\" title=\"%4$s\">%5$s</a> official plugin to a latest version (2.4.0 or upper)"
+msgstr "Para usar o <strong>%1$s</strong> (versão <strong>%2$s</strong>), atualize o plugin oficial <a href=\"%3$s\" class=\"thickbox\" title=\"%4$s\">%5$s</a> para a versão mais recente (2.4.0 ou superior)."
+
+#: automatic-translator-addon-for-loco-translate.php:276
+msgid "In order to use <strong>%1$s</strong> plugin, please install and activate the latest version  of <a href=\"%2$s\" class=\"thickbox\" title=\"%3$s\">%4$s</a>"
+msgstr "Para usar o plugin <strong>%1$s</strong>, instale e ative a versão mais recente do <a href=\"%2$s\" class=\"thickbox\" title=\"%3$s\">%4$s</a>."
+
+#. Author URI of the plugin
+#: automatic-translator-addon-for-loco-translate.php
+msgid "https://coolplugins.net/"
+msgstr "https://coolplugins.net/"
+
+#. Author of the plugin
+#: automatic-translator-addon-for-loco-translate.php
+msgid "Cool Plugins"
+msgstr "Cool Plugins"
+
+#. Description of the plugin
+#: automatic-translator-addon-for-loco-translate.php
+msgid "Loco Translate plugin addon to automatic translate plugins and themes translatable string with one click in any language."
+msgstr "Complemento do plugin Loco Translate para traduzir automaticamente as strings traduzíveis de plugins e temas com um único clique em qualquer idioma."
+
+#. Plugin Name of the plugin
+#: automatic-translator-addon-for-loco-translate.php
+#: automatic-translator-addon-for-loco-translate.php:494
+msgid "Automatic Translate Addon For Loco Translate"
+msgstr "Automatic Translate Addon For Loco Translate"
